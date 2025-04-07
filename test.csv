@@ -1,0 +1,10 @@
+id,sname,country_id,city,capacity,founding_date
+1,Anfield,1,Liverpool,63000,1911-09-25
+2,Santiago Bernabeu,2,Madrid,95000,1912-04-22
+3,Nou Camp,2,Barcelona,93000,1913-09-16
+4,Alianz Arena,4,Munich,75000,1930-10-25
+5,Juseppe Miazo,5,Milan,78000,1900-04-01
+6,Par de France,3,Paris,67000,1911-09-25
+7,Web Arena,6,Moscow,30000,2014-01-01
+8,Emirates,1,London,54000,1990-03-15
+9,Wembley,1,London,97000,1990-03-25
